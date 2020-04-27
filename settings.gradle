@@ -1,0 +1,2 @@
+rootProject.name='elementosUI_ejemplo'
+include ':app'
